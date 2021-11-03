@@ -41,6 +41,11 @@
     text-decoration: none;
 }
 
+.button a:hover{
+    background-color: black;
+    color: white;
+}
+
 .shoes img {
     height: 350px;
 }
